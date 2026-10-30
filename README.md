@@ -47,4 +47,4 @@ La copertina originale e le versioni separate dell’icona e dei loghi sono stat
 L’immagine promozionale è stata generata durante il progetto OOPS! in questa conversazione; non proviene da uno stock recuperato dal web. Non si garantisce una esclusività assoluta contro somiglianze con opere terze.
 
 ## Aggiornamento del 30 ottobre 2026
-La Privacy Policy (IT/EN) è stata corretta per identificare il titolare. Questo archivio va ridistribuito su Vercel **sullo stesso progetto** già collegato al dominio: non è necessario cambiare DNS o ricreare l’app su Play Console. Prima di considerare completata la conformità, verificare il comportamento reale di app, SDK, backend, conservazione e cancellazione account.
+La Privacy Policy (IT/EN) è stata corretta per identificare il titolare. Questo archivio va ridistribuito su Vercel **sullo stesso progetto** già collegato al dominio: non è necessario cambiare DNS o ricreare l’app su Play Console. Prima di considerare completata la conformità, verificare il comportamento reale di app, SDK, backend, conservazione e cancellazione account.  sviluppato dal the Viking of the web
